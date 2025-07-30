@@ -1,2 +1,5 @@
-D:\RESUME-ATS\venv
-D:\RESUME-ATS\.env
+# Ignore Python virtual environments
+venv/
+
+# Ignore environment variables file
+.env
